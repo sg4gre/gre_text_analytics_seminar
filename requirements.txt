@@ -1,4 +1,3 @@
-name: textanalytics
 channels:
   - defaults
 dependencies:
