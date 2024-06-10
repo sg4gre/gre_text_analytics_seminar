@@ -16,7 +16,6 @@ jupyter_events==0.8.0
 jupyter_server==2.10.0
 jupyter_server_terminals==0.4.4
 jupyterlab==4.0.11
-jupyterlab_pygments==
 jupyterlab_server==2.25.1
 jupyterlab_widgets==3.0.10
 matplotlib==3.8.4
