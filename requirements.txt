@@ -31,7 +31,7 @@ pandas==2.2.1=py310h6a678d5_0
 pandocfilters==1.5.0=pyhd3eb1b0_0
 python==3.10.9=h7a1cb2a_2
 scikit-learn==1.4.2=py310h1128e8f_1
-scipy=1.13.1==py310h5f9d8c6_0
+scipy==1.13.1=py310h5f9d8c6_0
 spacy==3.7.2=py310h3c18c91_0
 spacy-legacy==3.0.12=py310h06a4308_0
 spacy-loggers==1.0.4=py310h06a4308_0
