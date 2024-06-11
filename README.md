@@ -4,6 +4,8 @@ Author: Dr Stef Garasto.
 
 Licence: GPLv3.
 
+To run using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sg4gre/gre_text_analytics_seminar/HEAD) 
+
 Python script to reproduce (approximately and partially) the paper "Analyzing Gender Bias within Narrative Tropes" by Gala et al. (2020)
 
 The goal is to show some useful text analytics techniques in context.
