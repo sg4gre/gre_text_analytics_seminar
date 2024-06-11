@@ -1,0 +1,13 @@
+Create a Conda environment with python 3.10.9
+
+Then, install these packages from the environment manager:
+
+matplotlib
+notebook
+numpy
+pandas
+scikit-learn
+scipy
+spacy
+
+We also need a package called "cleantext". We will install this directly from the python script. There should be a cell with the content: "!pip install cleantext". Make sure it's uncommented, that is make sure it does *not* start with "#".
